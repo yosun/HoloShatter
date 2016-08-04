@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 81581eee1db5e464bbeb845fee652d7a
+timeCreated: 1467152271
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Lamp
+    100004: //RootNode
+    100006: Super-Selfie-256Vox-K9D
+    100008: Super-Selfie-256Vox-K9D_MeshPart0
+    100010: Super-Selfie-256Vox-K9D_MeshPart1
+    100012: Super-Selfie-256Vox-K9D_MeshPart10
+    100014: Super-Selfie-256Vox-K9D_MeshPart11
+    100016: Super-Selfie-256Vox-K9D_MeshPart12
+    100018: Super-Selfie-256Vox-K9D_MeshPart13
+    100020: Super-Selfie-256Vox-K9D_MeshPart14
+    100022: Super-Selfie-256Vox-K9D_MeshPart15
+    100024: Super-Selfie-256Vox-K9D_MeshPart16
+    100026: Super-Selfie-256Vox-K9D_MeshPart2
+    100028: Super-Selfie-256Vox-K9D_MeshPart3
+    100030: Super-Selfie-256Vox-K9D_MeshPart4
+    100032: Super-Selfie-256Vox-K9D_MeshPart5
+    100034: Super-Selfie-256Vox-K9D_MeshPart6
+    100036: Super-Selfie-256Vox-K9D_MeshPart7
+    100038: Super-Selfie-256Vox-K9D_MeshPart8
+    100040: Super-Selfie-256Vox-K9D_MeshPart9
+    400000: Camera
+    400002: Lamp
+    400004: //RootNode
+    400006: Super-Selfie-256Vox-K9D
+    400008: Super-Selfie-256Vox-K9D_MeshPart0
+    400010: Super-Selfie-256Vox-K9D_MeshPart1
+    400012: Super-Selfie-256Vox-K9D_MeshPart10
+    400014: Super-Selfie-256Vox-K9D_MeshPart11
+    400016: Super-Selfie-256Vox-K9D_MeshPart12
+    400018: Super-Selfie-256Vox-K9D_MeshPart13
+    400020: Super-Selfie-256Vox-K9D_MeshPart14
+    400022: Super-Selfie-256Vox-K9D_MeshPart15
+    400024: Super-Selfie-256Vox-K9D_MeshPart16
+    400026: Super-Selfie-256Vox-K9D_MeshPart2
+    400028: Super-Selfie-256Vox-K9D_MeshPart3
+    400030: Super-Selfie-256Vox-K9D_MeshPart4
+    400032: Super-Selfie-256Vox-K9D_MeshPart5
+    400034: Super-Selfie-256Vox-K9D_MeshPart6
+    400036: Super-Selfie-256Vox-K9D_MeshPart7
+    400038: Super-Selfie-256Vox-K9D_MeshPart8
+    400040: Super-Selfie-256Vox-K9D_MeshPart9
+    2300000: Super-Selfie-256Vox-K9D_MeshPart0
+    2300002: Super-Selfie-256Vox-K9D_MeshPart1
+    2300004: Super-Selfie-256Vox-K9D_MeshPart10
+    2300006: Super-Selfie-256Vox-K9D_MeshPart11
+    2300008: Super-Selfie-256Vox-K9D_MeshPart12
+    2300010: Super-Selfie-256Vox-K9D_MeshPart13
+    2300012: Super-Selfie-256Vox-K9D_MeshPart14
+    2300014: Super-Selfie-256Vox-K9D_MeshPart15
+    2300016: Super-Selfie-256Vox-K9D_MeshPart16
+    2300018: Super-Selfie-256Vox-K9D_MeshPart2
+    2300020: Super-Selfie-256Vox-K9D_MeshPart3
+    2300022: Super-Selfie-256Vox-K9D_MeshPart4
+    2300024: Super-Selfie-256Vox-K9D_MeshPart5
+    2300026: Super-Selfie-256Vox-K9D_MeshPart6
+    2300028: Super-Selfie-256Vox-K9D_MeshPart7
+    2300030: Super-Selfie-256Vox-K9D_MeshPart8
+    2300032: Super-Selfie-256Vox-K9D_MeshPart9
+    3300000: Super-Selfie-256Vox-K9D_MeshPart0
+    3300002: Super-Selfie-256Vox-K9D_MeshPart1
+    3300004: Super-Selfie-256Vox-K9D_MeshPart10
+    3300006: Super-Selfie-256Vox-K9D_MeshPart11
+    3300008: Super-Selfie-256Vox-K9D_MeshPart12
+    3300010: Super-Selfie-256Vox-K9D_MeshPart13
+    3300012: Super-Selfie-256Vox-K9D_MeshPart14
+    3300014: Super-Selfie-256Vox-K9D_MeshPart15
+    3300016: Super-Selfie-256Vox-K9D_MeshPart16
+    3300018: Super-Selfie-256Vox-K9D_MeshPart2
+    3300020: Super-Selfie-256Vox-K9D_MeshPart3
+    3300022: Super-Selfie-256Vox-K9D_MeshPart4
+    3300024: Super-Selfie-256Vox-K9D_MeshPart5
+    3300026: Super-Selfie-256Vox-K9D_MeshPart6
+    3300028: Super-Selfie-256Vox-K9D_MeshPart7
+    3300030: Super-Selfie-256Vox-K9D_MeshPart8
+    3300032: Super-Selfie-256Vox-K9D_MeshPart9
+    4300000: Super-Selfie-256Vox-K9D_MeshPart0
+    4300002: Super-Selfie-256Vox-K9D_MeshPart1
+    4300004: Super-Selfie-256Vox-K9D_MeshPart2
+    4300006: Super-Selfie-256Vox-K9D_MeshPart3
+    4300008: Super-Selfie-256Vox-K9D_MeshPart4
+    4300010: Super-Selfie-256Vox-K9D_MeshPart5
+    4300012: Super-Selfie-256Vox-K9D_MeshPart6
+    4300014: Super-Selfie-256Vox-K9D_MeshPart7
+    4300016: Super-Selfie-256Vox-K9D_MeshPart8
+    4300018: Super-Selfie-256Vox-K9D_MeshPart9
+    4300020: Super-Selfie-256Vox-K9D_MeshPart10
+    4300022: Super-Selfie-256Vox-K9D_MeshPart11
+    4300024: Super-Selfie-256Vox-K9D_MeshPart12
+    4300026: Super-Selfie-256Vox-K9D_MeshPart13
+    4300028: Super-Selfie-256Vox-K9D_MeshPart14
+    4300030: Super-Selfie-256Vox-K9D_MeshPart15
+    4300032: Super-Selfie-256Vox-K9D_MeshPart16
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
