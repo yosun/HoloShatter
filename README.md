@@ -1,4 +1,4 @@
-# modbod-massacre
+# Glass Menagerie People or HoloShatter
 smash yourself in virtual reality 
 
 HoloShatter lets you shatter yourself and other interesting characters in AR 
